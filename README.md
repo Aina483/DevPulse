@@ -2,11 +2,9 @@
 
 > A real-time GitHub developer analytics dashboard powered by **React**, **TypeScript**, and the **GitHub GraphQL API v4** via **Apollo Client**.
 
-![DevPulse Preview](https://via.placeholder.com/1200x600/0d1117/4f6ef7?text=DevPulse+Dashboard)
 
-## 🚀 Live Demo
 
-[**View Live →**](https://devpulse-github.vercel.app) *(deploy your own below)*
+
 
 ---
 
